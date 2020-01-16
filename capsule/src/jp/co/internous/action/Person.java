@@ -3,6 +3,7 @@ package jp.co.internous.action;
 
 public class Person {
 
+//演習④ privateで隠蔽する。
 	private String name = null;
 	private int age = 0;
 

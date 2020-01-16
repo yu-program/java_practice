@@ -9,6 +9,7 @@ public class Capsule {
 //		 →Personクラスで、nameはprivateのためアクセス制限がかかり、Capsuleクラスから
 //		中身を見ることができない。なので、中身を見たい場合は、publicになっているgetNameを使用する。
 		System.out.println(taro.getName());
+//演習③ Capsuleプロジェクトを実行
 
 
 
