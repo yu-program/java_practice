@@ -13,8 +13,6 @@ public class Person {
 	public String phoneNumber = null;
 	public String address =null;
 
-
-
 //演習⑤
 //メソッドを追加
 	public void talk() {
